@@ -1,0 +1,24 @@
+{
+ "name": "屁桃星小屋",
+ "short_name": "屁桃星",
+ "description": "Yoru × 屁屁 · 永远在一起",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#0D0B1A",
+ "theme_color": "#0D0B1A",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
